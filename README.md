@@ -13,8 +13,8 @@ Construyo microservicios, BFFs y aplicaciones web para banca y retail financiero
 | | Proyecto | Qué es |
 |---|---|---|
 | 🎮 | **[AUROK](https://aurok.app)** | Juego de acción multijugador en [Steam](https://store.steampowered.com/app/5270410), [Google Play](https://play.google.com/store/apps/details?id=app.aurok.game) y [App Store](https://apps.apple.com/app/aurok/id6825888052). Servidores dedicados en dos regiones, backend NestJS + PostgreSQL, pagos reales y launcher con parches automáticos. |
-| 💅 | **[DubeNails](https://dubenails.com)** · [código](https://github.com/hernaysdev/dubenails) | PWA de reservas para un salón de uñas: agenda, recordatorios y notificaciones push. |
-| 📄 | **[tusherramientas.org](https://tusherramientas.org)** · [código](https://github.com/hernaysdev/tusherramientas) | Herramientas gratis para PDF y Word: editar, firmar, OCR y convertir. |
+| 💅 | **[DubeNails](https://dubenails.com)** · [detalles](https://github.com/hernaysdev/dubenails) | PWA de reservas para un salón de uñas: agenda, recordatorios y notificaciones push. |
+| 📄 | **[tusherramientas.org](https://tusherramientas.org)** · [detalles](https://github.com/hernaysdev/tusherramientas) | Herramientas gratis para PDF y Word: editar, firmar, OCR y convertir. |
 | 🏁 | **[ASR Performance](https://asrperformanceva.com)** · [código](https://github.com/hernaysdev/asr-web) | Sitio web de un taller de autos en Virginia, EE.UU. |
 | 🧑‍💻 | **[Portafolio](https://hernays.dubenails.com)** · [código](https://github.com/hernaysdev/portafolio) | Este portafolio: HTML/CSS/JS + Express, en español e inglés. |
 
